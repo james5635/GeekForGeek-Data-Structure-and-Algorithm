@@ -8,4 +8,4 @@
 - Primitive Data Structure
 - Abstract Data Structure/Abstract Data Types/ADT
 
-**data structure** usually categorized as Linear Data Structure and No-Linear Data Structure
+**Data Structure** usually categorized as Linear Data Structure and No-Linear Data Structure
