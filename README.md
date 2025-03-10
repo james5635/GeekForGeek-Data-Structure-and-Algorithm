@@ -1,11 +1,21 @@
-# Type of Data Structure
+## Classification of Data Structure
 - Linear Data Structure
-- Non-Linear Data Structure
-- Homogeneous Data Structure
-- Heterogeneous Data Structure
-- Static Data Structure
+- Static Data Structure:
 - Dynamic Data Structure
-- Primitive Data Structure
-- Abstract Data Structure/Abstract Data Types/ADT
+- Non-Linear Data Structure
+## Key Concepts
+- Array
+- Matrix/Grid
+- String
+- Stack
+- Queue
+- Linked List
+- Hash
+- Tree
+- Binary Tree
+- Binary Search Tree
+- Heap
+- Graph
+- Advanced Data Structures
 
-**Data Structure** usually categorized as Linear Data Structure and No-Linear Data Structure
+[In Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures), **Data Structure** is categorized as Data types, Linear data structures, Trees, Hash-based structures, Graphs and Other.  
