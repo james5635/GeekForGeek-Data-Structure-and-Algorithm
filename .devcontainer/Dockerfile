@@ -6,5 +6,8 @@ RUN apk update --no-cache && \
     python3 \
     ipython \
     py3-pip \
-    py3-ipykernel 
+    py3-ipykernel \
+    py3-numpy \
+    py3-pandas
+
 CMD ["bash"]
