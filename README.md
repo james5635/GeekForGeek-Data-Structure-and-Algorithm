@@ -1,21 +1,24 @@
-## Classification of Data Structure
-- Linear Data Structure
-- Static Data Structure:
-- Dynamic Data Structure
-- Non-Linear Data Structure
 ## Key Concepts
+- Logic Building
+- Learn about Complexities
 - Array
-- Matrix/Grid
+- Searching Algorithms
+- Sorting Algorithm
+- Hashing
+- Two Pointer Technique
+- Window Sliding Technique
+- Prefix Sum Technique
 - String
+- Recursion
+- Matrix/Grid
 - Stack
 - Queue
+- Deque
 - Linked List
-- Hash
 - Tree
-- Binary Tree
-- Binary Search Tree
 - Heap
 - Graph
-- Advanced Data Structures
-
-[In Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures), **Data Structure** is categorized as Data types, Linear data structures, Trees, Hash-based structures, Graphs and Other.  
+- Greedy Algorithm
+- Dynamic Programming
+- Other Algorithms
+- Advanced Data Structure and Algorithms
