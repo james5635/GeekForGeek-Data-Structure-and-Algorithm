@@ -2,11 +2,11 @@
 
 def closest_number(n:int,m:int) -> int:
     """
-    <<< closest_number(10, 3)
+    >>> closest_number(10, 3)
     9
-    <<< closest_number(10, 5)
+    >>> closest_number(10, 5)
     10
-    <<< closest_number(15674.246)
+    >>> closest_number(15674.246)
     15675
     """
     closest = 0

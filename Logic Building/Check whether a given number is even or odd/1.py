@@ -2,9 +2,9 @@
 
 def isEven(n: int) -> bool:
     """
-    <<< isEven(10)
+    >>> isEven(10)
     true
-    <<< isEven(11)
+    >>> isEven(11)
     false
     """
     return n % 2 == 0

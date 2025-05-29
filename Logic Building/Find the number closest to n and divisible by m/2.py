@@ -2,13 +2,13 @@
 
 def closest_number(n:int, m:int ) -> int:
     """
-    <<< closest_number(10, 3)
+    >>> closest_number(10, 3)
     10
-    <<< closest_number(10222, 5)
+    >>> closest_number(10222, 5)
     10220
-    <<< closest_number(152123123, 3213)
+    >>> closest_number(152123123, 3213)
     152123121
-    <<< closest_number(22234, 342)
+    >>> closest_number(22234, 342)
     22236
     """
     # Find the quotient
