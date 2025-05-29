@@ -9,8 +9,8 @@ def closest_number(n:int,m:int) -> int:
     >>> closest_number(15674.246)
     15675
     """
-    closest = 0
-    min_diff = float('inf')
+    closest: int = 0
+    min_diff: float = float('inf')
 
     for i in range(n-abs(m), n+abs(m)+1):
         if i % m == 0:

@@ -1,5 +1,5 @@
 """ Using if-else statement """
-def opposite_face(n):
+def opposite_face(n: int) -> int | None:
     """
     >>> opposite_face(1) 
     6
@@ -20,6 +20,8 @@ def opposite_face(n):
         return 2
     elif n == 6:
         return 1
+    return None
+
 if __name__ == "__main__":
     from doctest import testmod
     testmod()

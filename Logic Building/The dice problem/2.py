@@ -1,5 +1,5 @@
 """ Using Sum of Two Sides """
-def opposite_face(n):
+def opposite_face(n: int) -> int:
     """
     >>> opposite_face(1) 
     6

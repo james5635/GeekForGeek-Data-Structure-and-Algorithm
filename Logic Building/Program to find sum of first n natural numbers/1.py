@@ -9,7 +9,7 @@ def find_sum(n: int) -> int:
     >>> find_sum(1000)
     500500
     """
-    sum = 0
+    sum: int = 0
     x = 1
     while x <= n:
         sum += x

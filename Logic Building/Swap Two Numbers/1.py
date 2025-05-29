@@ -7,11 +7,11 @@ def main() -> None:
     a = 2 b = 3
     a = 3 b = 2
     """
-    a = 2
-    b = 3
+    a: int = 2
+    b: int = 3
     print("a =", a, "b =", b)
 
-    temp = a
+    temp: int = a
     a = b
     b = temp
     print("a =", a, "b =", b)

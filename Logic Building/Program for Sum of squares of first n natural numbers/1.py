@@ -1,7 +1,7 @@
 """Adding One By One"""
 
 
-def sum_of_squares(n):
+def sum_of_squares(n: int) -> int:
     """
     >>> sum_of_squares(5)
     55
@@ -13,7 +13,7 @@ def sum_of_squares(n):
     return sum([i**2 for i in range(1, n + 1)])
 
 
-def sum_of_squares_not_overflow(n):
+def sum_of_squares_not_overflow(n: int) -> int:
     """
     >>> sum_of_squares_not_overflow(5)
     55

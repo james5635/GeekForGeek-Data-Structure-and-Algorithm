@@ -13,10 +13,10 @@ def closest_number(n:int, m:int ) -> int:
     """
     # Find the quotient
     # q = n // m
-    q = int (n / m)
+    q: int = int (n / m)
 
     # First possible closest number
-    n1 = m * q
+    n1: int = m * q
 
     # Second possible closest number
     if n * m > 0:
