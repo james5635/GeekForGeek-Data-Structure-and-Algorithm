@@ -1,3 +1,3 @@
-## Multiplication Table Method
+## Multiplication Table
 - Iterative Approach 
 - Recursive Approach
