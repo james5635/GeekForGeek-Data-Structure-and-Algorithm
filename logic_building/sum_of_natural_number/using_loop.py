@@ -1,4 +1,5 @@
-""" Loop Based Summation """
+"""Using Loop"""
+
 
 def find_sum(n: int) -> int:
     """
@@ -15,7 +16,9 @@ def find_sum(n: int) -> int:
         sum += x
         x += 1
     return sum
-if __name__ == "__main__":  
-    from doctest import testmod
-    testmod(verbose=True)
 
+
+if __name__ == "__main__":
+    from doctest import testmod
+
+    testmod(verbose=True)

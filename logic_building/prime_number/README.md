@@ -1,4 +1,4 @@
-# prime_number method
+# prime_number
 - School Method
 - Optimized School Method
 - Another Appoach
