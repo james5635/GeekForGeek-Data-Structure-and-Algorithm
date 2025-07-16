@@ -1,0 +1,6 @@
+# GCD_or_HCF
+- using_loop
+- euclidean_algorithm_using_subtraction
+- modified_euclidean_algorithm_using_subtraction_by_checking_divisibility
+- optimized_euclidean_algorithm_by_checking_remainder
+- using_built_in_function
