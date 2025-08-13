@@ -14,9 +14,11 @@ greatest common measure
 ```
 
 ```
-a | b => a divide b
-      => a is divisor of b
-      => b is divisible by a
+m | n => m divide n
+      => m is a divisor of n
+      => m is a factor of n
+      => n is a multiple of m
+      => n is divisible by m
 ```
 
 ```
