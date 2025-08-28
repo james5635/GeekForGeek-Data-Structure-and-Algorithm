@@ -23,34 +23,34 @@
 - [x] Day of the Week
 - [x] Nth Fibonacci Number
 - [x] Decimal to Binary
-- [] N-th term of 1, 3, 6, 10, 15, 21…
-- [] Armstrong Number
-- [] Palindrome Number
-- [] Digit Root
-- [] Square Root
-- [] 3 Divisors
-- [] Divisible by 4
-- [] Divisibility by 11
-- [] Divisibility by 13
-- [] K-th Digit in a^b
-- [] Fraction to Recurring Decimal
-- [] Recurring Sequence in a Fraction
-- [] Compute nPr
-- [] Compute nCr
-- [] Pascal’s Triangle
-- [] All Factor (Or Divisors)
-- [] Prime Factorization
-- [] Largest Prime factor
-- [] Modular Exponentiation
-- [] nth Catalan Number
-- [] Binomial Coefficient
-- [] Power Set
-- [] Next Permutation
-- [] Sieve of Eratosthenes
-- [] Clock Angle Problem
-- [] Tower of Hanoi
-- [] Rat and Poisoned
-- [] 8 puzzle Problem
-- [] Determinant of a Matrix
-- [] Euler's Totient Function
-- [] Josephus Problem
+- [ ] N-th term of 1, 3, 6, 10, 15, 21…
+- [ ] Armstrong Number
+- [ ] Palindrome Number
+- [ ] Digit Root
+- [ ] Square Root
+- [ ] 3 Divisors
+- [ ] Divisible by 4
+- [ ] Divisibility by 11
+- [ ] Divisibility by 13
+- [ ] K-th Digit in a^b
+- [ ] Fraction to Recurring Decimal
+- [ ] Recurring Sequence in a Fraction
+- [ ] Compute nPr
+- [ ] Compute nCr
+- [ ] Pascal’s Triangle
+- [ ] All Factor (Or Divisors)
+- [ ] Prime Factorization
+- [ ] Largest Prime factor
+- [ ] Modular Exponentiation
+- [ ] nth Catalan Number
+- [ ] Binomial Coefficient
+- [ ] Power Set
+- [ ] Next Permutation
+- [ ] Sieve of Eratosthenes
+- [ ] Clock Angle Problem
+- [ ] Tower of Hanoi
+- [ ] Rat and Poisoned
+- [ ] 8 puzzle Problem
+- [ ] Determinant of a Matrix
+- [ ] Euler's Totient Function
+- [ ] Josephus Problem
