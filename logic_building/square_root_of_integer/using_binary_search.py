@@ -7,7 +7,6 @@ def floor_sqrt(n: int) -> int:
     3
     """
     low = 1
-
     high = n
     res = 1
     while low <= high:
