@@ -1,5 +1,5 @@
 print("hello world")
-for i in range(0,15):
+for i in range(0, 15):
     print(i)
 print("you are done debugging")
 my_name = "John Doe"

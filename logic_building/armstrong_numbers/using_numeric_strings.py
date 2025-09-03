@@ -1,4 +1,6 @@
-""" Using Numberic Strings """
+"""Using Numberic Strings"""
+
+
 def armstrong(n: int) -> bool:
     """
     >>> armstrong(153)
@@ -10,6 +12,9 @@ def armstrong(n: int) -> bool:
     for i in num:
         out += int(i) ** digits
     return out == n
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)

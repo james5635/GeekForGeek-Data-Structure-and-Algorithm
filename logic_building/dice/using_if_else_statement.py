@@ -1,11 +1,13 @@
-""" Using if-else statement """
+"""Using if-else statement"""
+
+
 def opposite_face(n: int) -> int | None:
     """
-    >>> opposite_face(1) 
+    >>> opposite_face(1)
     6
-    >>> opposite_face(2) 
+    >>> opposite_face(2)
     5
-    >>> opposite_face(3) 
+    >>> opposite_face(3)
     4
     """
     if n == 1:
@@ -22,6 +24,8 @@ def opposite_face(n: int) -> int | None:
         return 1
     return None
 
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod()

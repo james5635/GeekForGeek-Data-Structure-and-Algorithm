@@ -1,4 +1,6 @@
-""" School Method """
+"""School Method"""
+
+
 def is_prime(n: int) -> bool:
     """
     >>> is_prime(2)
@@ -16,6 +18,9 @@ def is_prime(n: int) -> bool:
         if n % i == 0:
             return False
     return True
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)

@@ -1,4 +1,5 @@
-""" Using Bitwise Shift Operators """
+"""Using Bitwise Shift Operators"""
+
 
 def is_even(n: int) -> bool:
     """
@@ -11,6 +12,9 @@ def is_even(n: int) -> bool:
         return True
     else:
         return False
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod()

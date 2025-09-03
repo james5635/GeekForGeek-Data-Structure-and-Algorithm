@@ -17,6 +17,6 @@ k = (1, 2, 3)
 l = (x for x in range(10))
 n = [1, 2, 3]
 m = [i for i in range(2)]
-y(l for l in range(0,20))
+y(l for l in range(0, 20))
 
-uu: dict[int, ] = dict([1,2,3])
+uu: dict[int,] = dict([1, 2, 3])

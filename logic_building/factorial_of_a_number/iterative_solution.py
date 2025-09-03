@@ -1,4 +1,6 @@
-""" iterative solution """
+"""iterative solution"""
+
+
 def factorial(n: int) -> int:
     """
     >>> factorial(5)
@@ -8,6 +10,9 @@ def factorial(n: int) -> int:
     for i in range(2, n + 1):
         res *= i
     return res
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)

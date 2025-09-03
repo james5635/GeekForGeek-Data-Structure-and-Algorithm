@@ -1,4 +1,6 @@
-""" Recursive Approach """
+"""Recursive Approach"""
+
+
 def printTable(n: int, i: int = 1) -> None:
     """
     >>> printTable(5)
@@ -15,8 +17,11 @@ def printTable(n: int, i: int = 1) -> None:
     """
     if i == 11:
         return
-    print(f"{n} * {i} = {n*i}")
+    print(f"{n} * {i} = {n * i}")
     printTable(n, i + 1)
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)

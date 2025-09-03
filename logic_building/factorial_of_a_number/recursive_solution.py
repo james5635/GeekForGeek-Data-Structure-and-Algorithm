@@ -1,4 +1,6 @@
-""" Recursive Solution """
+"""Recursive Solution"""
+
+
 def factorial(n: int) -> int:
     """
     >>> factorial(5)

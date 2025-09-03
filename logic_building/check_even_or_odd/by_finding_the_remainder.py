@@ -1,4 +1,5 @@
-""" By Finding the Remainder """
+"""By Finding the Remainder"""
+
 
 def isEven(n: int) -> bool:
     """
@@ -9,6 +10,8 @@ def isEven(n: int) -> bool:
     """
     return n % 2 == 0
 
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod()

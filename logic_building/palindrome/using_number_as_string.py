@@ -1,4 +1,6 @@
-""" Using Number as String """
+"""Using Number as String"""
+
+
 def is_palindrome(n: int) -> bool:
     """
     >>> is_palindrome(12321)
@@ -12,6 +14,9 @@ def is_palindrome(n: int) -> bool:
         if str_[i] != str_[len_ - i - 1]:
             return False
     return True
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)

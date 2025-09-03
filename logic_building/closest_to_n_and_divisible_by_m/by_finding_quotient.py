@@ -1,6 +1,7 @@
-""" By finding Quotient """
+"""By finding Quotient"""
 
-def closest_number(n:int, m:int ) -> int:
+
+def closest_number(n: int, m: int) -> int:
     """
     >>> closest_number(10, 3)
     10
@@ -13,7 +14,7 @@ def closest_number(n:int, m:int ) -> int:
     """
     # Find the quotient
     # q = n // m
-    q: int = int (n / m)
+    q: int = int(n / m)
 
     # First possible closest number
     n1: int = m * q
@@ -27,6 +28,9 @@ def closest_number(n:int, m:int ) -> int:
     if abs(n - n1) < abs(n - n2):
         return n1
     return n2
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)

@@ -1,4 +1,4 @@
-""" Using rescursion """
+"""Using rescursion"""
 
 
 def reverse_digits(n: int, reversed_number: list[int], base_position: list[int]) -> int:

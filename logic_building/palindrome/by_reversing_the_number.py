@@ -1,4 +1,6 @@
-""" By Reversing The Number """
+"""By Reversing The Number"""
+
+
 def is_palindrome(n: int) -> bool:
     """
     >>> is_palindrome(12321)
@@ -9,9 +11,12 @@ def is_palindrome(n: int) -> bool:
     reverse = 0
     temp = n
     while temp:
-        reverse = (reverse * 10 ) + (temp % 10)
+        reverse = (reverse * 10) + (temp % 10)
         temp //= 10
     return reverse == n
+
+
 if __name__ == "__main__":
     from doctest import testmod
+
     testmod(verbose=True)
