@@ -23,15 +23,15 @@
 - [x] Day of the Week
 - [x] Nth Fibonacci Number
 - [x] Decimal to Binary
-- [ ] N-th term of 1, 3, 6, 10, 15, 21…
-- [ ] Armstrong Number
-- [ ] Palindrome Number
-- [ ] Digit Root
-- [ ] Square Root
-- [ ] 3 Divisors
-- [ ] Divisible by 4
-- [ ] Divisibility by 11
-- [ ] Divisibility by 13
+- [x] N-th term of 1, 3, 6, 10, 15, 21…
+- [x] Armstrong Number
+- [x] Palindrome Number
+- [x] Digit Root
+- [x] Square Root
+- [x] 3 Divisors
+- [x] Divisible by 4
+- [x] Divisibility by 11
+- [x] Divisibility by 13
 - [ ] K-th Digit in a^b
 - [ ] Fraction to Recurring Decimal
 - [ ] Recurring Sequence in a Fraction
