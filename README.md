@@ -1,3 +1,4 @@
+[link](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
 ## Key Concepts
 - [ ] Logic Building
 - [ ] Learn about Complexities
