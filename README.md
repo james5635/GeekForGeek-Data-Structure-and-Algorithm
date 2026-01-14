@@ -23,3 +23,12 @@
 - [ ] Dynamic Programming
 - [ ] Other Algorithms
 - [ ] Advanced Data Structure and Algorithms
+
+## Promt
+
+```
+https://www.geeksforgeeks.org/dsa/prime-factor/
+mirror all algorithm implementation from this site to 
+logic_building folder. Also create README.md
+
+```

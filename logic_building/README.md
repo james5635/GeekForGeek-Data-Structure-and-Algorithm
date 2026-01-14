@@ -38,8 +38,8 @@
 - [ ] Compute nPr
 - [ ] Compute nCr
 - [ ] Pascal’s Triangle
-- [ ] All Factor (Or Divisors)
-- [ ] Prime Factorization
+- [x] All Factor (Or Divisors)
+- [x] Prime Factorization
 - [ ] Largest Prime factor
 - [ ] Modular Exponentiation
 - [ ] nth Catalan Number
