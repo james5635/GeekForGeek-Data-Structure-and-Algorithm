@@ -40,17 +40,17 @@
 - [ ] Pascal’s Triangle
 - [x] All Factor (Or Divisors)
 - [x] Prime Factorization
-- [ ] Largest Prime factor
-- [ ] Modular Exponentiation
-- [ ] nth Catalan Number
-- [ ] Binomial Coefficient
-- [ ] Power Set
-- [ ] Next Permutation
-- [ ] Sieve of Eratosthenes
-- [ ] Clock Angle Problem
-- [ ] Tower of Hanoi
-- [ ] Rat and Poisoned
-- [ ] 8 puzzle Problem
+- [x] Largest Prime factor
+- [x] Modular Exponentiation
+- [x] nth Catalan Number
+- [x] Binomial Coefficient
+- [x] Power Set
+- [x] Next Permutation
+- [x] Sieve of Eratosthenes
+- [x] Clock Angle Problem
+- [x] Tower of Hanoi
+- [x] Rat and Poisoned
+- [x] 8 puzzle Problem
 - [ ] Determinant of a Matrix
-- [ ] Euler's Totient Function
-- [ ] Josephus Problem
+- [x] Euler's Totient Function
+- [x] Josephus Problem
