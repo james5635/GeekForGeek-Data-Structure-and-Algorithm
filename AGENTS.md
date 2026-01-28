@@ -2,3 +2,5 @@ This repository contain Data Structure & Algorithm from https://www.geeksforgeek
 
 # Folder
 - logic_building => Logic Building Guide 
+- time_complexity => Time Complexity
+- array => Array

@@ -27,8 +27,8 @@
 ## Promt
 
 ```
-https://www.geeksforgeeks.org/dsa/prime-factor/
+<url>
 mirror all algorithm implementation from this site to 
-logic_building folder. Also create README.md
+<folder-name> folder with python. Also create README.md
 
 ```

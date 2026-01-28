@@ -32,12 +32,12 @@
 - [x] Divisible by 4
 - [x] Divisibility by 11
 - [x] Divisibility by 13
-- [ ] K-th Digit in a^b
-- [ ] Fraction to Recurring Decimal
-- [ ] Recurring Sequence in a Fraction
-- [ ] Compute nPr
-- [ ] Compute nCr
-- [ ] Pascal’s Triangle
+- [x] K-th Digit in a^b
+- [x] Fraction to Recurring Decimal
+- [x] Recurring Sequence in a Fraction
+- [x] Compute nPr
+- [x] Compute nCr
+- [x] Pascal’s Triangle
 - [x] All Factor (Or Divisors)
 - [x] Prime Factorization
 - [x] Largest Prime factor
@@ -51,6 +51,7 @@
 - [x] Tower of Hanoi
 - [x] Rat and Poisoned
 - [x] 8 puzzle Problem
-- [ ] Determinant of a Matrix
+- [x] Determinant of a Matrix
 - [x] Euler's Totient Function
 - [x] Josephus Problem
+
