@@ -1,4 +1,5 @@
 # Iterative Python Program to print alternate elements of the array
+#
 
 
 def getAlternates(arr):
