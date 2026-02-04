@@ -18,7 +18,7 @@ Generate all Subarrays
 Reverse an Array
 Rotate an Array
 Zeroes to End
-Min Increments to Make Equal
+- [x] Min Increments to Make Equal
 Min Cost to Make Size 1
 # Easy Problems
 Duplicate within K Distance
