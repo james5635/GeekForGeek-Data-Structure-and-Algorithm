@@ -21,21 +21,21 @@ Zeroes to End
 - [x] Min Increments to Make Equal
 - [x] Min Cost to Make Size 1
 # Easy Problems
-Duplicate within K Distance
-Make Even Positioned Greater
-Sum of all Subarrays
-Stock Buy and Sell – Multiple Transactions
-Single Among Doubles
-Missing Number
-Missing and Repeating
-Only Repeating from 1 to n-1
-Sorted Subsequence of Size 3
-Max Subarray Sum
-Equilibrium index
-Two Sum - Find if there is a Pair
-Two Sum - Closest Pair [More problems on 2 Sum in Medium Section]
-Split array into three equals
-Maximum Consecutive 1s with K Flips
+- [x] Duplicate within K Distance
+- [x] Make Even Positioned Greater
+- [x] Sum of all Subarrays
+- [x] Stock Buy and Sell – Multiple Transactions
+- [x] Single Among Doubles
+- [x] Missing Number
+- [x] Missing and Repeating
+- [x] Only Repeating from 1 to n-1
+- [x] Sorted Subsequence of Size 3
+- [x] Max Subarray Sum
+- [x] Equilibrium index
+- [x] Two Sum - Find if there is a Pair
+- [x] Two Sum - Closest Pair [More problems on 2 Sum in Medium Section]
+- [x] Split array into three equals
+- [x] Maximum Consecutive 1s with K Flips
 # Prerequisite for the Remaining Problems
 Binary Search
 Selection Sort, Insertion Sort, Binary Search, QuickSort, MergeSort, CycleSort, and HeapSort
