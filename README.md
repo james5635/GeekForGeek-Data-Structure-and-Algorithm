@@ -32,3 +32,11 @@ mirror all algorithm implementation from this site to
 <folder-name> folder with python. Also create README.md
 
 ```
+
+```
+<url>
+...
+
+mirror all algorithm implementation from these sites to 
+<folder-name> folder with python. Also create README.md
+```
