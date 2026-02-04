@@ -19,7 +19,7 @@ Reverse an Array
 Rotate an Array
 Zeroes to End
 - [x] Min Increments to Make Equal
-Min Cost to Make Size 1
+- [x] Min Cost to Make Size 1
 # Easy Problems
 Duplicate within K Distance
 Make Even Positioned Greater
