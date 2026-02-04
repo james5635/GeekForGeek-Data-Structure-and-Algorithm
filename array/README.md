@@ -45,24 +45,24 @@ Prefix Sum Technique
 Basics of Hashing
 Window Sliding Technique
 # Medium Problems
-Make arr[i] = i
-Maximum Circular Subarray Sum
-Reorder according to given indexes
-Product Except Self
-K-th Largest Sum Subarray
-Smallest missing number
-Smallest subarray with sum greater than x
-Majority Element
-Count possible triangles
-Sub-array with given sum
-Longest Subarray with Equal 0s and 1s
-Longest Common Span in Two Binary Arrays
-Construct an array from its pair-sum array
-2 Sum - All Pairs
-2 Sum - Distinct Pairs
-3 Sum - Find Any
-3 Sum - Closest Triplet
-4 Sum - Find Any [More problems on 4 Sum in Hard Section]
+- [x] Make arr[i] = i
+- [x] Maximum Circular Subarray Sum
+- [x] Reorder according to given indexes
+- [x] Product Except Self
+- [x] K-th Largest Sum Subarray
+- [x] Smallest missing number
+- [x] Smallest subarray with sum greater than x
+- [x] Majority Element
+- [x] Count possible triangles
+- [x] Sub-array with given sum
+- [x] Longest Subarray with Equal 0s and 1s
+- [x] Longest Common Span in Two Binary Arrays
+- [x] Construct an array from its pair-sum array
+- [x] 2 Sum - All Pairs
+- [x] 2 Sum - Distinct Pairs
+- [x] 3 Sum - Find Any
+- [x] 3 Sum - Closest Triplet
+- [x] 4 Sum - Find Any [More problems on 4 Sum in Hard Section]
 # Hard Problems
 Surpasser Count
 Trapping Rain Water
