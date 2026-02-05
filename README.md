@@ -37,6 +37,6 @@ mirror all algorithm implementation from this site to
 <url>
 ...
 
-mirror all algorithm implementation from these sites to 
-<folder-name> folder with python. Also create README.md
+mirror all algorithm implementation from these sites to <folder-name> folder with python. Also create README.md. 
+If you can use more than one subagents, please use it to improve performance.
 ```
