@@ -64,20 +64,22 @@ Window Sliding Technique
 - [x] 3 Sum - Closest Triplet
 - [x] 4 Sum - Find Any [More problems on 4 Sum in Hard Section]
 # Hard Problems
-Surpasser Count
-Trapping Rain Water
-Top K Frequent Elements
-Kth Missing Positive Number in a Sorted Array
-Stock Buy and Sell - At Most K Transactions
-Stock Buy and Sell - At Most 2 Transactions
-Median in a Stream
-Smallest Difference Triplet from 3 arrays
-Max occurred in n ranges
-3 Sum - Distinct Triplets
-3 Sum - All Triplets
-4 Sum - Distinct Quadruples
-4 Sum - All Quadruples
-4 Sum - Closest Quadruple
+Each hard problem has its own directory with `solution.py` and `README.md`:
+
+- [surpasser_count](./surpasser_count/) - Find surpasser count of each element using modified merge sort
+- [trapping_rain_water](./trapping_rain_water/) - Calculate trapped rainwater using two pointers
+- [top_k_frequent](./top_k_frequent/) - Find k most frequent elements using heap/bucket sort
+- [kth_missing_element](./kth_missing_element/) - Find kth missing element in sorted array using binary search
+- [stock_max_profit_k](./stock_max_profit_k/) - Maximum profit with at most k transactions using DP
+- [stock_max_profit_twice](./stock_max_profit_twice/) - Maximum profit with at most 2 transactions
+- [median_of_stream](./median_of_stream/) - Running median using two heaps
+- [smallest_diff_triplet](./smallest_diff_triplet/) - Smallest difference triplet from 3 arrays
+- [max_occurred_integer](./max_occurred_integer/) - Maximum occurred integer in n ranges
+- [unique_triplets_sum](./unique_triplets_sum/) - Unique triplets with given sum (3 Sum variants)
+- [three_sum_zero](./three_sum_zero/) - Triplets with sum equal to zero
+- [four_sum](./four_sum/) - Four elements with sum equal to target
+- [distinct_quadruplets](./distinct_quadruplets/) - All distinct quadruplets with given sum
+- [four_sum_closest](./four_sum_closest/) - Quadruplet with closest sum to target
 # Expert Problems for Competitive Programmers
 MO’s Algorithm
 Square Root (Sqrt) Decomposition
