@@ -81,13 +81,18 @@ Each hard problem has its own directory with `solution.py` and `README.md`:
 - [distinct_quadruplets](./distinct_quadruplets/) - All distinct quadruplets with given sum
 - [four_sum_closest](./four_sum_closest/) - Quadruplet with closest sum to target
 # Expert Problems for Competitive Programmers
-MO’s Algorithm
-Square Root (Sqrt) Decomposition
-Sparse Table
-Range sum query using Sparse Table
-Range Minimum Query
-Range LCM Queries
-Merge Sort Tree for Range Order Statistics
-Minimum jumps to reach end
-Space optimization using bit manipulations
-Max value of Sum( i*arr[i]) with only rotations
+Each expert problem has its own directory with `solution.py` and `README.md`:
+
+## Range Query Data Structures
+- [mo_algorithm](./mo_algorithm/) - MO's Algorithm for offline range queries O((N+Q)√N)
+- [sqrt_decomposition](./sqrt_decomposition/) - Square root decomposition for range queries O(√N)
+- [sparse_table](./sparse_table/) - Sparse table for static RMQ O(1) query
+- [range_sum_query](./range_sum_query/) - Range sum queries using sparse table
+- [range_minimum_query](./range_minimum_query/) - Range minimum query (RMQ) implementations
+- [range_lcm_query](./range_lcm_query/) - Range LCM queries using segment tree
+- [merge_sort_tree](./merge_sort_tree/) - Merge sort tree for k-th order statistics
+
+## Optimization Problems
+- [min_jumps_to_end](./min_jumps_to_end/) - Minimum jumps to reach array end O(N)
+- [bit_manipulation](./bit_manipulation/) - Space optimization using bit manipulations
+- [max_rotation_sum](./max_rotation_sum/) - Maximize sum of i*arr[i] with rotations O(N)
