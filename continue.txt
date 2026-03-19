@@ -1,0 +1,64 @@
+
+
+
+**Basics**
+- https://www.geeksforgeeks.org/dsa/multidimensional-arrays-in-c/  
+- https://www.geeksforgeeks.org/dsa/row-major-order-vs-column-major-order/
+
+**Basic Problems**
+- https://www.geeksforgeeks.org/dsa/search-in-a-matrix-or-2d-array/
+- https://www.geeksforgeeks.org/dsa/c-program-to-add-two-matrices/  
+- https://www.geeksforgeeks.org/dsa/sort-given-matrix/
+- https://www.geeksforgeeks.org/dsa/search-element-sorted-matrix/
+- https://www.geeksforgeeks.org/dsa/traverse-a-given-matrix-using-recursion/
+- https://www.geeksforgeeks.org/dsa/program-to-find-transpose-of-a-matrix/
+- https://www.geeksforgeeks.org/dsa/determinant-of-a-matrix/
+- https://www.geeksforgeeks.org/dsa/adjoint-inverse-matrix/
+
+**Easy Problems**
+- https://www.geeksforgeeks.org/dsa/check-if-given-sudoku-board-configuration-is-valid-or-not/
+- https://www.geeksforgeeks.org/dsa/validity-of-a-given-tic-tac-toe-board-configuration/
+- https://www.geeksforgeeks.org/dsa/the-celebrity-problem/
+- https://www.geeksforgeeks.org/dsa/boundary-elements-matrix/
+- https://www.geeksforgeeks.org/dsa/print-matrix-in-zig-zag-fashion/
+- https://www.geeksforgeeks.org/dsa/rotate-matrix-elements/
+- https://www.geeksforgeeks.org/dsa/print-a-given-matrix-in-spiral-form/
+- https://www.geeksforgeeks.org/dsa/find-unique-elements-matrix/
+- https://www.geeksforgeeks.org/dsa/swap-major-minor-diagonals-square-matrix/
+- https://www.geeksforgeeks.org/dsa/program-check-idempotent-matrix/
+- https://www.geeksforgeeks.org/dsa/pascal-triangle/
+- https://www.geeksforgeeks.org/dsa/find-if-given-matrix-is-toeplitz-or-not/
+- https://www.geeksforgeeks.org/dsa/possible-moves-knight/
+
+**Medium Problems**
+- https://www.geeksforgeeks.org/dsa/program-for-conways-game-of-life/
+- https://www.geeksforgeeks.org/dsa/rotate-matrix-90-degree-without-using-extra-space-set-2/
+- https://www.geeksforgeeks.org/dsa/rotate-matrix-180-degree/
+- https://www.geeksforgeeks.org/dsa/given-matrix-o-x-find-largest-subsquare-surrounded-x/
+- https://www.geeksforgeeks.org/dsa/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+- https://www.geeksforgeeks.org/dsa/count-zeros-in-a-row-wise-and-column-wise-sorted-matrix/
+- https://www.geeksforgeeks.org/dsa/queries-in-a-matrix/
+- https://www.geeksforgeeks.org/dsa/count-pairs-two-sorted-matrices-given-sum/
+- https://www.geeksforgeeks.org/dsa/find-pairs-given-sum-elements-pair-different-rows/
+- https://www.geeksforgeeks.org/dsa/find-permuted-rows-given-row-matrix/
+- https://www.geeksforgeeks.org/dsa/find-number-transformation-make-two-matrix-equal/
+- https://www.geeksforgeeks.org/dsa/minimum-flip-required-make-binary-matrix-symmetric/
+- https://www.geeksforgeeks.org/dsa/magic-square/
+
+**Hard Problems**
+- https://www.geeksforgeeks.org/dsa/find-median-row-wise-sorted-matrix/
+- https://www.geeksforgeeks.org/dsa/a-boolean-matrix-question/
+- https://www.geeksforgeeks.org/dsa/matrix-chain-multiplication-dp-8/
+- https://www.geeksforgeeks.org/dsa/print-maximum-sum-square-sub-matrix-of-given-size/
+- https://www.geeksforgeeks.org/dsa/maximum-size-rectangle-binary-sub-matrix-1s/
+- https://www.geeksforgeeks.org/dsa/construct-ancestor-matrix-from-a-given-binary-tree/
+- https://www.geeksforgeeks.org/dsa/print-kth-element-spiral-form-matrix/
+- https://www.geeksforgeeks.org/dsa/find-size-of-the-largest-formed-by-all-ones-in-a-binary-matrix/
+- https://www.geeksforgeeks.org/dsa/shortest-path-in-a-binary-maze/
+- https://www.geeksforgeeks.org/dsa/minimum-positive-points-to-reach-destination/
+- https://www.geeksforgeeks.org/dsa/strassens-matrix-multiplication/
+- https://www.geeksforgeeks.org/dsa/maximum-sum-rectangle-in-a-2d-matrix-dp-27/
+- https://www.geeksforgeeks.org/dsa/program-sudoku-generator/
+
+mirror all algorithm implementation from these sites to 
+matrix folder with python. Also create README.md. If you can use more than one subagents, please use it to improve performance.
